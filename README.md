@@ -44,7 +44,7 @@ The script performs the followings steps:
    - Reads X, Y and subject for both training and test sets and combines into a single data set
    - Selects only the variables that store mean and standard deviations
    - Group By Activity and Subject and take the mean of each of the variables. Store the final tesults in the dataset "tidy_dataset"
-   - Write the 'tidy_res' data to a file called 'means_by_activity_and_subject.txt' in the R working directory.
+   - Write the "tidy_dataset"" data to a file called 'means_by_activity_and_subject.txt' in the R working directory.
   
 
    - run_analysis.R

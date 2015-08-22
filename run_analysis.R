@@ -101,3 +101,4 @@ tidy_dataset<-
     summarise_each(funs(mean))
 
 
+write.table(tidy_dataset,"means_by_activity_and_subject.txt",row.names = FALSE)
