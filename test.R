@@ -1,2 +1,4 @@
 a<-rnorm(2,3)
-a
+
+
+print (a)
