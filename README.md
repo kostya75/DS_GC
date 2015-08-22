@@ -1,4 +1,4 @@
-# DS_GC
+##Getting and cleaning data course project
 
 #Summary of Human Activity Smartphone Dataset
 

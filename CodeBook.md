@@ -1,3 +1,5 @@
+##Getting and Cleaning data course project
+
 
 #DATA DICTIONARY - HUMAN ACTIVITY RECOGNITION
 
