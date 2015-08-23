@@ -45,7 +45,7 @@ df<-rbind(
 
 
 
-# Step 4. Assign variable names by using "set"+"subject"+"activity_code" labels and feature_names for Xs
+# Assign variable names by using "set"+"subject"+"activity_code" labels and feature_names for Xs
 
 # Complete data set
 # use make.names to create unique names
